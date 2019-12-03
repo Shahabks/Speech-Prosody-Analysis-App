@@ -3,7 +3,7 @@ various aspects of prosodic analysis of speech, in particular F0
 and harmonic analysis, loudness analysis, and voice-source analysis. 
 Much of this software was written to support the research outlined
 in "A Computational Model for the Automatic Recognition of Affect in
-Speech".
+Speech". CREDIT of the original copy to Raul Fernandez. 
 
 It is free software; you can redistribute it and/or modify it under the 
 terms of the MIT General Public License as published by the Free Software 
