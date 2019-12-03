@@ -1,13 +1,12 @@
-This software consists of a series of Matlab routines useful for
+This app consists of a series of Matlab routines useful for
 various aspects of prosodic analysis of speech, in particular F0
 and harmonic analysis, loudness analysis, and voice-source analysis. 
 Much of this software was written to support the research outlined
 in "A Computational Model for the Automatic Recognition of Affect in
-Speech" (downloadable from http://web.media.mit.edu/~galt/phdthesis.pdf).
-You may find it most useful if you're familiar with that work. 
+Speech".
 
 It is free software; you can redistribute it and/or modify it under the 
-terms of the GNU General Public License as published by the Free Software 
+terms of the MIT General Public License as published by the Free Software 
 Foundation; either version 2 of the License, or (at your option) any 
 later version.
 
